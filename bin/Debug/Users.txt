@@ -1,0 +1,8 @@
+Tayyab,Amir1234,Admin,
+Subhan,Amir9876,Customer,1234567890123
+Kaleem,Kaleem12,Admin,
+Faraz1,faraz1234,Customer,0987654321234
+abdullah,12345678,Admin,
+MamMaida,mammaida,Admin,
+TayyabÂ,Amir1234Â,AdminÂ,
+newuserÂ,newuser123Â,cusTomerÂ,1357902468123

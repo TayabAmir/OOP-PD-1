@@ -1,0 +1,7 @@
+D:\Tayyab\GBAF\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+D:\Tayyab\GBAF\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+D:\Tayyab\GBAF\BusinessApp\bin\Debug\BusinessApp.exe.config
+D:\Tayyab\GBAF\BusinessApp\bin\Debug\BusinessApp.exe
+D:\Tayyab\GBAF\BusinessApp\bin\Debug\BusinessApp.pdb
+D:\Tayyab\GBAF\BusinessApp\obj\Debug\BusinessApp.exe
+D:\Tayyab\GBAF\BusinessApp\obj\Debug\BusinessApp.pdb
